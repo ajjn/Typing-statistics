@@ -1,6 +1,4 @@
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ajjn/Typing-statistics/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ajjn/Typing-statistics/?branch=master)
-
-[![Build Status](https://travis-ci.org/ajjn/Typing-statistics.svg?branch=master)](https://travis-ci.org/ajjn/Typing-statistics)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ajjn/Typing-statistics/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ajjn/Typing-statistics/?branch=master) [![Build Status](https://travis-ci.org/ajjn/Typing-statistics.svg?branch=master)](https://travis-ci.org/ajjn/Typing-statistics)
 
 #Typing statistics
 ![Intro](intro.gif)
